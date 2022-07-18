@@ -1,4 +1,4 @@
-# exploarMovies
+# MoviesExplorer
 #Movie App created using The Movie Database API.
 #Features:
 Kotlin
