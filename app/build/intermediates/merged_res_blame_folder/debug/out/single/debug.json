@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable_stroke_shape.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable\\stroke_shape.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_details.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_error.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\layout_item_genre.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\layout\\item_genre.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\layout_item_movie.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\navigation_main_navigation.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\navigation\\main_navigation.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\layout_item_image.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_shape.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\drawable\\edit_text_shape.xml"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\exploarMovies\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\android\\exploarMovies\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

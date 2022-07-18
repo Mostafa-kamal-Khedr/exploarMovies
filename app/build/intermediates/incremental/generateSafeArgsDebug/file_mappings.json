@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\main_navigation.xml","javaFiles":["com.exploar.movies.presentation.fragment.home.HomeFragmentDirections","com.exploar.movies.presentation.fragment.details.DetailsFragmentDirections","com.exploar.movies.presentation.fragment.details.DetailsFragmentArgs"]}]
